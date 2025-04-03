@@ -8,6 +8,8 @@ This project was developed as part of the FaceCup competition. The goal of this 
 
 High Number of Classes: The dataset contained 488 unique location classes representing various tourist attractions in Iran, significantly increasing the model’s search space and making precise location identification difficult.
 
+![2](https://github.com/user-attachments/assets/3529ce40-30d5-4846-8b8d-723ff77512ac)
+
 Limited Data per Class: Each class had a relatively small number of samples, creating challenges in deep learning training and reducing model generalization.
 
 Integration of Person Detection and Gender Classification: While the competition’s baseline model used two separate models for these tasks, this project combined them into a single model using YOLO v11, optimizing computational efficiency and reducing inference time.
