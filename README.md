@@ -17,6 +17,7 @@ Integration of Person Detection and Gender Classification: While the competition
 
 EfficientNet-B6: Used for geographical location detection with high generalization capability.
 ![3](https://github.com/user-attachments/assets/a15c81ec-404c-440c-9008-567b4ac2bf2c)
+
 YOLO v11: Used for person detection and gender classification, providing higher accuracy and faster processing compared to separate models.
 ![cc72f33a-c861-4f17-8201-96ef630afb2e](https://github.com/user-attachments/assets/c76c8d12-8f91-4582-b64f-caa0012c8532)
 
