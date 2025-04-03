@@ -2,6 +2,7 @@
 
 This project was developed as part of the FaceCup competition. The goal of this challenge was to design an AI-powered deep learning system capable of detecting the geographical location of an image and accurately counting the number of men and women present. Given the complexity of the task, advanced image processing models were utilized to enhance the system’s accuracy and efficiency.
 
+![1](https://github.com/user-attachments/assets/fedafcf7-a6ee-482b-a010-1f6ee86b004e)
 
 # Key Challenges
 
