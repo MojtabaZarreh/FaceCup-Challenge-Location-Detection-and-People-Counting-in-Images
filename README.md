@@ -12,6 +12,9 @@ Limited Data per Class: Each class had a relatively small number of samples, cre
 
 Integration of Person Detection and Gender Classification: While the competition’s baseline model used two separate models for these tasks, this project combined them into a single model using YOLO v11, optimizing computational efficiency and reducing inference time.
 
+![4](https://github.com/user-attachments/assets/3d878d20-aa98-4314-a26f-5ff2a306bec4)
+
+
 
 # Models Used
 
